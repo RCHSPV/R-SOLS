@@ -1,0 +1,112 @@
+#hr1{
+	margin:4px 0px 4px 0px;
+    height: 1px;
+    border-top: 2px solid lightgray;
+}
+#p1{background-color:black; padding:10px;}
+a.a1{color:white; padding:0px 5px 0px 5px;text-decoration-line:none;font-size:15px;margin-left:20px;}
+#sp1{font-size:24px;color:white;}
+a.a2{padding:0px 6px 0px 6px;text-decoration-line:none;margin:80px;color:white;font-weight:bold;font-size:16px;font-family:"Times New Roman", Times, serif;}
+a.a2:visited {color: white;}
+a.a2:hover {color: red;font-size: 120%;border-bottom: 2px solid red;text-decoration:none;white-space: nowrap;box-sizing: border-box;}
+a.a2:active {color: darkblue;}
+a.a1:visited {color: white;}
+a.a1:hover {color: red;font-size: 120%;border-bottom: 2px solid red;text-decoration:none;white-space: nowrap;box-sizing: border-box;}
+a.a1:active {color: darkblue;}
+img.im1:hover{width:420px;height:220px;}
+table {
+  font-family: arial, sans-serif;
+  border-width: 40px;
+}
+td{
+  border: 10px solid #dddddd;
+  text-align: center;
+  width:200px;
+}
+#t{
+  border: 10px solid #dddddd;
+  text-align: center;
+  margin:50px;
+  padding:10px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  margin: 8px 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+#d1{
+	align:right;
+  border-radius: 60px;
+  background: transparent;
+  background:white;
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  margin:0px 0px 0px 900px;
+  position:relative;
+ }
+#b1{font-family:"Times New Roman", Times, serif;color:black;}
+ input{padding:5px;margin:0px 20px 0px 20px;display:inline;}
+a:focus {
+	outline: none !important;
+}
+
+a:hover {
+	text-decoration: none;
+  color: #fff;
+}
+#bg1{
+	background-image:url("https://static.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/893/2018/4/25/GITAM-University-Visakhapatnam15.jpg");
+  content: "";
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  opacity:1;
+  background-color: rgba(255,255,255,0.9);
+}
+.he3 {
+    border-bottom: 2px solid #289dcc;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.a4{
+  margin-left:20px;
+  max-width:400px;
+  max-height:200px;
+  border-radius:5px;
+  border-width: 5px;
+}
+#about {
+    font-size: 16px;
+    font-weight: 500 !important;
+    font-family: Proxima-regular !important;
+    color: #444444;
+    font-family: 'proxima-light';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6;
+    color:black;
+}
